@@ -1,12 +1,22 @@
-<!doctype html>
-  <html lang="fr"> 
-    <head> 
-      <meta charset="utf-8"> 
-      <title>Sarah Asine : Graphiste à la conquête du Code </title> 
-      <link rel="stylesheet" href="/style.css"> 
-      <script src="/script.js"></script> 
-    </head> 
-    <body> 
-      <p> Ex
-    </body>
-  </html>
+<DOCTYPE! html>
+  <head style = "text-align:center;"><h1>Sarah Asine à la Conquête du Code</h1></head>
+      <body>
+        <h3 style = "text-align:center;">Expériences</h2>
+          <ol>
+             <li>Octobre 2015 <strong>Graphiste</strong> <em>Foyer Schaerbeekois</em></li>
+             <li>Octobre 2013 <strong>Graphiste</strong> <em> Freelance</em></li>
+          </ol>
+        <h3 style = "text-align:center;">Formation</h2>
+          <ul>
+             <li>2007-2012 <strong>Arts Appliquées</strong> <em>Bischoffsheim</em></li>
+          </ul>
+         <footer>
+          <ol>
+            <li> sarahasine@gmail.com </li>
+            <li> rue Space Invaders 007 </li>
+            <li> 0032473850614 </li>
+          </ol>
+        </footer>
+      </body>
+      
+</html>
