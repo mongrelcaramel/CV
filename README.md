@@ -10,12 +10,12 @@
           <ul>
              <li>2007-2012 <strong>Arts Appliquées</strong> <em>Bischoffsheim</em></li>
           </ul>
-         <footer>
-          <ol>
+         <footer> <h3> Contact </h3>
+          <ul>
             <li> sarahasine@gmail.com </li>
             <li> rue Space Invaders 007 </li>
             <li> 0032473850614 </li>
-          </ol>
+          </ul>
         </footer>
       </body>
       
