@@ -8,7 +8,7 @@
           </ol>
         <h3 style = "text-align:center;">Formation</h2>
           <ul>
-             <li>2007-2012 <strong>Arts Appliquées</strong> <em>Bischoffsheim</em></li>
+             <li>2007-2012 <strong>Arts Appliqués</strong> <em>Bischoffsheim</em></li>
           </ul>
          <footer> <h3> Contact </h3>
           <ul>
