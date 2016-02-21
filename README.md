@@ -1,4 +1,4 @@
-<DOCTYPE! html>
+<!DOCTYPE html>
   <head style = "text-align:center;"><h1>Sarah Asine à la Conquête du Code</h1></head>
       <body>
         <h3 style = "text-align:center;">Expériences</h2>
